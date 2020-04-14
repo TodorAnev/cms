@@ -3,7 +3,7 @@
 <?php include "includes/nav.php"  ?>
 
 
-asd
+
 <!-- Page Content -->
 <div class="container">
 
@@ -86,4 +86,6 @@ asd
     </ul>
     <hr>
     <?php include "includes/footer.php" ?>
+
+    asd
 
