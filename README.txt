@@ -6,3 +6,7 @@ Search function works with the tags that are set in post creation.
 Comments need to be approved before they are shown in the front-end.
 There are 3 sample images in images folder.
 Shows how many users are online.
+
+Admin User:
+Username: admin
+Password: admin
