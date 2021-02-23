@@ -103,7 +103,7 @@ function confirmQuery($result){
         $result = query("SELECT u_role FROM tbl_users WHERE id = '$u_id'");
         $row = fetchRecords($result);
 
-        if(isset($row['u_role']) == 'admin'){
+        if($row['u_role'] == 'admin'){
             return true;
         } else{
             return false;
