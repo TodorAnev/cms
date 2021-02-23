@@ -110,7 +110,7 @@ CREATE TABLE `tbl_users` (
 --
 
 INSERT INTO `tbl_users` (`id`, `u_token`, `u_email`, `u_password`, `u_f_name`, `u_l_name`, `u_role`, `u_username`) VALUES
-(1, '', 'toshkoanev@abv.bg', '$2y$12$7qNpmKlP5ZmKpvo4fHMe2.3zZ6sLxYLIACkpSAtAJ1Diz0UEfNHCq', 'pesho', 'pesho', 'admin', 'pesho');
+(1, '', 'admin@gmail.com', '$2y$12$rcejBGQ8oqJYCJc6GwOUsuWh.6B8IcweZq1YWZtrUDJZxJFSDiKO6', 'admin', 'admin', 'admin', 'admin');
 
 -- --------------------------------------------------------
 
