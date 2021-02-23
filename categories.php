@@ -42,7 +42,7 @@
 
 
     if ($rows == 0) {
-        echo "<h3 class='text-center'>There are no active categories</h3>";
+        echo "<h3 class='text-center'>There are no active posts in this category</h3>";
     } else {
          while($row = $stmt1->fetch_assoc()) :
         $p_title    = $row['p_title'];
