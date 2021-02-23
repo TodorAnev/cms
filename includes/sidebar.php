@@ -50,9 +50,6 @@
                         <div class="form-group">
                             <input name="password" type="password" class="form-control" placeholder="Enter Password">
                         </div>
-                        <div class="form-group">
-                            <a href="forgot.php?forgot=<?php echo uniqid(true); ?>">Forgot password</a>
-                        </div>
                     <button name="login" type="submit" class="btn btn-default">Login</button>
                     </form>
                 </div>
