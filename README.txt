@@ -1,4 +1,4 @@
-CMS with Registration and Admin page.
+PHP CMS with Registration and Admin page.
 
 Admin user has different functionalities(approve comments, acess to dashboard, categories, users)
 When a certain post is cloned or created it has to be made active in the admin page, for it to be shown in the front-end (there is an option to make all posts active in view all posts page).
