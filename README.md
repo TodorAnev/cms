@@ -11,7 +11,7 @@
 
 ### Admin
 
-Username: admin
+Username: admin    
 Password: admin
 
 #### Database is in db folder
